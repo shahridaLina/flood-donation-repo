@@ -15,6 +15,7 @@ p{
     background-image: url(images/donation77.jpg);
     color: white;
     font-size: 30px;
+    margin-bottom: 100px;
   }
 
 
@@ -27,3 +28,34 @@ p{
 
 
   }
+
+  .text{
+    text-align: center;
+    font-size: 20px;
+    
+  }
+
+  .flexible{
+    display: flex;
+    margin-left: 400px;
+
+    
+  }
+
+  .box{
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    
+    padding: 10px;
+  }
+
+  .second-box{
+        width: 100px;
+        height: 100px;
+        color:rgb(155, 20, 43);
+        background-color: pink;
+        border: 2px solid rgb(187, 8, 38);
+        padding: 10px;
+      }
+  
