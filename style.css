@@ -85,10 +85,65 @@ body{
         
         padding: 10px;
         margin-right: 10px;
+        margin-bottom: 100px;
       }
 
       .icon-style{
         width: 100px;
         height: 70px;
       }
-      
+
+
+
+     .box-shadow{
+        box-shadow: 2px 2px 5px gray;
+        border-radius: 40px;
+        padding: 20px;
+        margin-left: 50px;
+        
+     }
+
+      .width-style{
+        width:450px;
+        height:300px;
+        margin-top: 20px;
+        margin-left: 40px;
+        border-radius: 40px;
+      }
+
+      .text-wt{
+        font-weight: 700;
+      }
+
+      .color-text{
+        color: crimson;
+      }
+
+
+
+      .update-box{
+        width: 700px;
+        height: 150px;
+        background-color: cornsilk;
+        
+        padding: 10px;
+        margin-left: 300px;
+        margin-bottom: 100px;
+      }
+
+      .email-style{
+        background-color: lavender;
+        border: none;
+        margin-top: 50px;
+
+        padding: 10px;
+      }
+
+      .sub-button{
+        color:white;
+        padding: 6px;
+        text-decoration: none;
+        background-image:linear-gradient(red,red);
+    
+    
+      }
