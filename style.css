@@ -36,7 +36,7 @@ body{
 
   .flexible{
     display: flex;
-    margin-left: 400px;
+    margin-left: 290px;
 
     
   }
@@ -47,6 +47,7 @@ body{
     background-color: whitesmoke;
     
     padding: 10px;
+    margin-right: 10px;
   }
 
   .second-box{
@@ -77,4 +78,12 @@ body{
   
 
 
+      .donate-box{
+        width: 400px;
+        height: 200px;
+        background-color: cornsilk;
+        
+        padding: 10px;
+        margin-right: 10px;
+      }
       
