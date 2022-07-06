@@ -147,3 +147,17 @@ body{
     
     
       }
+
+      .fotter{
+        color: white;
+        background-color: black;
+        padding: 20px;
+      }
+
+      .footer-text{
+
+        color: salmon;
+        font-family: 'Lobster Two', cursive;
+        font-family: 'Poppins', sans-serif;
+
+      }
